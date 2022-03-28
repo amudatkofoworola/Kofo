@@ -56,6 +56,8 @@ namespace classwork28032022
 
             Console.WriteLine("Segun");
 
+            Console.WriteLine("TRying to learn");
+
 
         }
     }
